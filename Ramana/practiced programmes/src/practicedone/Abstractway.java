@@ -5,7 +5,7 @@ package practicedone;
 	int Id;
 	String name;
 	double salary;
-	public void employee(int a,String abs,double pq)
+public void employee(int a,String abs,double pq)
 	{
 		this.Id=a;
 		this.name=abs;
@@ -38,7 +38,7 @@ class Someways extends  Somewaysone
 		//Somewaysone obj2= new Somewaysone();
 		Someways obj=new Someways();
 		obj.employee(200, "ganesha", 12.0);
-		obj.employee(100, "ramana", 4.0, "cse");
+		obj.employee(100, "ramana", 4.0);
 		
 	}
 	
