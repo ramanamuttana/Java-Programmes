@@ -12,6 +12,7 @@ public class ClassD
 		ClassB b=new ClassB();
 
 		ClassC c=new ClassC();
+		c.test();
 		b.test();
 		testing();
 	}
