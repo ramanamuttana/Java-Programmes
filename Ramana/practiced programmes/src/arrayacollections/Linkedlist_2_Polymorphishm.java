@@ -1,4 +1,4 @@
-package Arrayacollections;
+package arrayacollections;
 
 public class Linkedlist_2_Polymorphishm {
 		public static void main(String[] args) {

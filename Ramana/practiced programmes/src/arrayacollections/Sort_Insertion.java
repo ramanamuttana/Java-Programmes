@@ -1,4 +1,4 @@
-package Arrayacollections;
+package arrayacollections;
 
 public class Sort_Insertion {
 

@@ -1,4 +1,4 @@
-package Arrayacollections;
+package arrayacollections;
 import java.util.Scanner;
 
 public class Sort_Selection {

@@ -1,7 +1,7 @@
-package Arrayacollections;
+package arrayacollections;
 import java.util.Scanner;
 
-public class Array_Declaration {
+public class ArrayDeclaration {
  static Scanner scan=new Scanner(System.in);
 	public static void main(String[] args) {
     String[] days= new String[112];
