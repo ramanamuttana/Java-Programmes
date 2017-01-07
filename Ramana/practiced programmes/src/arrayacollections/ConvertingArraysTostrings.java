@@ -3,7 +3,7 @@ package arrayacollections;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Converting_Arrays_To_strings {
+public class ConvertingArraysTostrings {
 	static  Scanner scan=new Scanner(System.in);
 
 	public static void main(String[] args) {
