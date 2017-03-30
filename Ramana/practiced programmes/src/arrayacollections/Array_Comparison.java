@@ -7,7 +7,7 @@ public class Array_Comparison {
 		    String[] days= new String[3];
 		    days[0]="Sunday";
 		    days[1]="monday";
-		    days[2]="tuesday";
+		    days[2]="tuesda";
 		    String[] day= new String[3];
 		    day[0]="Sunday";
 		    day[1]="monday";
