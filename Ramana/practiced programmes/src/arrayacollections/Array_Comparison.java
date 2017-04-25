@@ -15,7 +15,7 @@ public class Array_Comparison {
 		    day[2]="tuesday";
 		    if(Arrays.equals(days, day))
 		    {
-		        System.out.println("They are equal jabed"); 
+		        System.out.println("They are equal"); 
 		     }else
 		     {
 		    	 System.out.println("They are not equal"); 
