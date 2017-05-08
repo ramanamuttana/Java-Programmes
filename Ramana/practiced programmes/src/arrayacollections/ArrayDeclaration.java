@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ArrayDeclaration {
  static Scanner scan=new Scanner(System.in);
-	public static void main(String[] args) {
+public static void main(String[] args) {
 	//declaring the size of the array 
     String[] days= new String[112];
     // taking value
@@ -12,5 +12,6 @@ public class ArrayDeclaration {
         	 days[i]=scan.next();
         	 System.out.println(days[i]); 
          }
+         
 	}
 }
