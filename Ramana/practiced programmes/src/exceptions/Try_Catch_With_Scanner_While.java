@@ -9,7 +9,7 @@ public class Try_Catch_With_Scanner_While {
 	public static void main(String[] args) {
 		// It takes only integers if we give string we will get mismatch Exception 
 		int i = GetValue();
-		System.out.println("The entered value is :" + i);
+		System.out.println("The Entered value is :" + i);
 	}
 
 	public static int GetValue() {
