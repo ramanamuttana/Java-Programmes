@@ -17,7 +17,7 @@ public class Try_Catch_With_Scanner_While {
 			try {
 				return scan.nextInt();
 			} catch (InputMismatchException e) {
-				System.out.println("You enterd value is not an integer");
+				System.out.println("The value is not an integer");
 				scan.next();
 			}
 			return 0;
