@@ -1,18 +1,17 @@
 package org.critical.problems;
 
 public class Objectcreation {
-	
-	public Objectcreation()
-	{
-		System.out.println("Hello ");
+	public void calculate(){
+		int a=1;
+		int  b=2;
+	    int c=a+b;
+	    System.out.println(c);
+		
 	}
-	
-	//first time it will execute when main method started 
-	static Objectcreation obj=new  Objectcreation();
 
 	public static void main(String[] args) 
 	{
      Objectcreation obj=new  Objectcreation();
+     obj.calculate();   
 	}
-
 }
