@@ -9,7 +9,7 @@ public class Try_Catch_with_Scanner {
 
 	public static void main(String[] args) {
 		int i = GetValue();
-		System.out.println("The entered value is :" + i);
+		System.out.println("The Entered value is :" + i);
 	}
 
 	public static int GetValue() {
