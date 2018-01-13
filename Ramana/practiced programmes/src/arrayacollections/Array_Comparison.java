@@ -6,7 +6,7 @@ public class Array_Comparison {
 
 	public static void main(String[] args) {
 
-		//Comparing arrays having Strings
+		// Comparing arrays having Strings
 		String[] days = new String[3];
 		days[0] = "Sunday";
 		days[1] = "monday";
