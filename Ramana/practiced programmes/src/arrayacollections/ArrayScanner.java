@@ -3,17 +3,16 @@ package arrayacollections;
 import java.util.Scanner;
 
 public class ArrayScanner {
-	
+
 	static Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		// declaring the size of the array
-		String[] days = new String[112];
-		// taking value
-		for (int i = 0; i < days.length; i++) {
-			days[i] = scan.next();
-			System.out.println(days[i]);
-		}
 
+		// here the maximum number of inputs can be given is 5 only
+		String[] input = new String[5];
+		for (int i = 0; i < input.length; i++) {
+			input[i] = scan.next();
+			System.out.println(input[i]);
+		}
 	}
 }
