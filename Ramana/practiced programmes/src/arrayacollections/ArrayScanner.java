@@ -8,8 +8,9 @@ public class ArrayScanner {
 
 	public static void main(String[] args) {
 
-		// here the maximum number of inputs can be given is 5 only
+		// declaring the Array size
 		String[] input = new String[5];
+
 		for (int i = 0; i < input.length; i++) {
 			input[i] = scan.next();
 			System.out.println(input[i]);
