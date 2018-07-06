@@ -1,4 +1,4 @@
-package org.simpleProgrammes;
+package org.staticandnonstatic;
 
 public class CallNonStaticVariable {
 
