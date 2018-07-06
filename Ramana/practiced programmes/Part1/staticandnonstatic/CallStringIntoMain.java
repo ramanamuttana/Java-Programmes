@@ -1,4 +1,4 @@
-package org.staticandnonstatic;
+package staticandnonstatic;
 
 public class CallStringIntoMain {
 
