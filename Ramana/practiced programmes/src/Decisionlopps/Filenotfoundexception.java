@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 public class Filenotfoundexception {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		openfile("C:\\Users\\venkataramanareddy\\Desktop\\concc.txt");
+		openfile("/practiced programmes/Files/org.Decisionloops.FileNotFoundException.txt");
 	}
 	public static void openfile(String name) 
 	{ 
