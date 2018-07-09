@@ -1,4 +1,4 @@
-package Decisionlopps;
+package decisionlopps;
 
 import java.util.*;
 

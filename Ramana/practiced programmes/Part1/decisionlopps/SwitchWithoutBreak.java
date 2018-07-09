@@ -1,4 +1,4 @@
-package Decisionlopps;
+package decisionlopps;
 
 public class SwitchWithoutBreak {
 
