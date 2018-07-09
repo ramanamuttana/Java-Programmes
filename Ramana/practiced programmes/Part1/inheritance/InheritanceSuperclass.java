@@ -1,4 +1,4 @@
-package constructors;
+package inheritance;
 class superclass
 {
 	int a;

@@ -1,4 +1,4 @@
-package constructors;
+package inheritance;
  class abc
  {
 	int a;
