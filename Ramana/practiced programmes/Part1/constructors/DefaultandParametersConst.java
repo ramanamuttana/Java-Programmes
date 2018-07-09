@@ -45,5 +45,4 @@ public class DefaultandParametersConst {
 		System.out.println(def4.getX());
 		System.out.println(def4.getY());
 	}
-
 }

@@ -9,5 +9,4 @@ public class CallStringIntoMain {
 
 		System.out.println(value);
 	}
-
 }
