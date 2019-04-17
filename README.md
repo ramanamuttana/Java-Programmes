@@ -1,2 +1,2 @@
 # Java-Programmes
-Java SE basics programmes
+Java SE basic programmes
