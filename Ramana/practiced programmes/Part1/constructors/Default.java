@@ -2,27 +2,32 @@ package constructors;
 
 public class Default {
 
-	
-	public static void main(String[]args)
-	{
-		 databses dbs= new databses(10,20);
-	
+	public static void main(String[] args) {
+		Databses dbs = new Databses(10, 20);
+		System.out.println("One value is: " + dbs.getX() + " the other value is: " + dbs.getY());
 	}
 }
-	class databses
-	{
-		private int x, y;
-		public databses()
-		{	
-		}
-		public databses(int x)
-		{
-			this.x=x;
-		}
-		public databses(int x,int y)
-		{
-			this.x=x;
-			this.y=y;
-		}
+
+class Databses {
+	private int x, y;
+
+	public Databses() {
 	}
 
+	public Databses(int x) {
+		this.x = x;
+	}
+
+	public Databses(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+
+	public int getX() {
+		return x;
+	}
+
+	public int getY() {
+		return y;
+	}
+}
