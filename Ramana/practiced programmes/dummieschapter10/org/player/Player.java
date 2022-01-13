@@ -1,4 +1,4 @@
-package org.plyaer;
+package org.player;
 
 import java.text.DecimalFormat;
 
