@@ -1,4 +1,4 @@
-package org.player;
+package dummies.chapterTen;
 
 import java.text.DecimalFormat;
 
