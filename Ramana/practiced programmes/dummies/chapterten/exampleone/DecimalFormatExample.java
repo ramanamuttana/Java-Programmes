@@ -5,17 +5,11 @@ import java.text.DecimalFormat;
 public class DecimalFormatExample {
 	
 	public static void main(String args[ ]) {
-	Student ramesh=new Student();
-	ramesh.setSubject("Telugu");
-	ramesh.setMarks(89);
-	Student venkatesh= new Student();
-	venkatesh.setSubject("Telugu");
-	venkatesh.setMarks(86);
-	
-	
-	System.out.println("ramesh marks : "+ramesh.getSubjectMarks());
-	System.out.println("Venkatesh Marks : "+venkatesh.getSubjectMarks());
-	
-	
+		DecimalFormat decFormat=new DecimalFormat();
+		decFormat.setMinimumFractionDigits(2); // after . keep only two digits 
+		decFormat.setNegativePrefix("("); // before negative value add (
+		decFormat.setNegativeSuffix(")"); // after negative value add last )
+		System.out.println(decFormat.format(345));
+		System.out.println(decFormat.format(-345));
 	}
 }

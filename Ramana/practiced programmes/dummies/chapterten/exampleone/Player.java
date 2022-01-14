@@ -28,3 +28,7 @@ public class Player {
 			return decFormat.format(average);
 		}
 	}
+/*
+ * this is example from 10.1 from dummies book Java Creating the Player class and
+ * removing the default constructor
+ */
