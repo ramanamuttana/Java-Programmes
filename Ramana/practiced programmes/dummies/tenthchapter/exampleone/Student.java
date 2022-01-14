@@ -1,4 +1,4 @@
-package chapterten.exampleone;
+package tenthchapter.exampleone;
 
 import java.text.DecimalFormat;
 
