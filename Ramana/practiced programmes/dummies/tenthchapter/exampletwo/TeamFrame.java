@@ -1,5 +1,6 @@
 package tenthchapter.exampletwo;
 
+import java.awt.GridLayout;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
@@ -17,8 +18,12 @@ public class TeamFrame extends JFrame {
 			player =new Player(keyboard.nextLine(),keyboard.nextDouble());
 			keyboard.nextLine();  // to set the label for the next line or else the JLabel will add in the same line.
 			addPlayerInfo(player); // directly we are sending the Object which has values to frame a Jlabel.
-			
 		}
+		setTitle("The Hankees");
+		setLayout(new GridLayout(9,2,20,3));
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		pack();
+		setVisible(true);
 	}
 
 	public void addPlayerInfo(Player player) {
