@@ -1,0 +1,9 @@
+Barry   10.1
+hari    20.0
+krishna  8.9
+sam      5.6
+deepak   12.3
+darshan   45.6
+praj      20.1
+kishore   60.3
+jab       45.6
