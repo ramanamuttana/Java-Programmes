@@ -6,5 +6,4 @@ public class Car2 extends Car {
 		Car cga = new Car(10);
 		System.out.println(p);
 	}
-
 }
