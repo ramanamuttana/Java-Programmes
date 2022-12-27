@@ -1,4 +1,4 @@
-package StringChanges;
+package com.string.work;
 
 import java.util.Scanner;
 

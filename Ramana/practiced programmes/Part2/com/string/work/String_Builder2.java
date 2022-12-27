@@ -1,4 +1,4 @@
-package StringChanges;
+package com.string.work;
 
 public class String_Builder2 {
 	String step1 = "johnson";
