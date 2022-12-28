@@ -7,7 +7,6 @@ import java.io.IOException;
 public class Problem78 {
 
 	
-
 	public static void main(String[] args) throws UnsupportedFlavorException, IOException {
 		Problem78  problem78=new Problem78();
 		Object obj1=problem78.fetchTransferableData("ram");
@@ -18,9 +17,11 @@ public class Problem78 {
 	
 	public Object fetchTransferableData(String data) throws UnsupportedFlavorException,IOException {
 			
-		var ss =new StringSelection(data); // each time  the new object is created with new string as a parameter is added 
-		var df =ss.getTransferDataFlavors(); // add the object to the DataFlavour  array 
-		var obj=ss.getTransferData(df[0]);  // get the first object 
+		// var ss inspite of ss --make as reasonable name  like stringSelection
+		
+		var stringSelection =new StringSelection(data); // each time  the new object is created with new string as a parameter is added 
+		var dataFlavoursArray =stringSelection.getTransferDataFlavors(); // add the object to the DataFlavour  array 
+		var obj=stringSelection.getTransferData(dataFlavoursArray[0]);  // get the first object 
 		return obj;	
 	}
 
