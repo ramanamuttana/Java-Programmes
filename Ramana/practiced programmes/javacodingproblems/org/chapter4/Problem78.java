@@ -6,6 +6,7 @@ import java.io.IOException;
 
 public class Problem78 {
 
+    //Local variable Type Inference (LVTI) 
 	
 	public static void main(String[] args) throws UnsupportedFlavorException, IOException {
 		Problem78  problem78=new Problem78();
