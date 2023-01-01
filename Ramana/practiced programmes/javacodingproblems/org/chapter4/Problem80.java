@@ -12,7 +12,7 @@ public class Problem80 {
 	
 	public static float purchaseCart(long customerId) {
 		
-		// if both are var , even if we send interger it will accept inspite of float 
+	// if both are var , even if we send interger it will accept inspite of float 
 	//	var price=10.98F; // in this case it will accept both float and int values 
 		var price=10;
 		return price;
