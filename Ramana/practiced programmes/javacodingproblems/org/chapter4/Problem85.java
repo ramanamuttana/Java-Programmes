@@ -13,5 +13,4 @@ public class Problem85 {
 		System.out.println(numbers[0]);
 
 	}
-
 }
