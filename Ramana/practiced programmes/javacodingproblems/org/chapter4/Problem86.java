@@ -6,7 +6,6 @@ public class Problem86 {
 	 * LVTI can not be used in compound declarations
 	 */
 	
-
 	public static void main(String[] args) {
 	//	var pending="demo",process="work";
 		var pending="demo";
@@ -14,5 +13,4 @@ public class Problem86 {
 		System.out.println(pending +process);
 
 	}
-
 }
