@@ -1,4 +1,4 @@
-package inheritance;
+package org.inheritance;
  class abc
  {
 	int a;
@@ -24,9 +24,6 @@ public class Inheritance {
 	public static void main(String[] args) {
 		def ob=new def();
 		ob.disp2();
-	
-		
-
 	}
 
 }

@@ -31,6 +31,9 @@ public class DefaultandParametersConst {
 	public void setY(int y) {
 		this.y = y;
 	}
+	/*
+	 * when no setters , if the variables are private then only READ possible , no update on the values 
+	 */
 
 	public static void main(String[] args) {
 		

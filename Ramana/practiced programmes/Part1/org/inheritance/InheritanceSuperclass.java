@@ -1,4 +1,4 @@
-package inheritance;
+package org.inheritance;
 class superclass
 {
 	int a;
@@ -25,6 +25,12 @@ public void disp()
 		System.out.println(+a);
 	}	
 }
+
+/*
+ * 1) subclass will initialize the superclass also and will the call the method
+ * 2) the subclass first prefernce is subclass methods only .
+ * 3) incase in subclass does not exist , then super class method will be called directly .
+ */
 public class InheritanceSuperclass {
 
 	public static void main(String[] args) {
