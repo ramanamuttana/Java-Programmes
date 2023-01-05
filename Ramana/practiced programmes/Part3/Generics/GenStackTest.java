@@ -12,16 +12,14 @@ public class GenStackTest {
 		gs.push("Four");
 		System.out.println("Items in the size " +gs.size()+" items in the stack.\n");
 		String E = null;
-		System.out.println("first item is :"+gs.peek(E));
+		System.out.println("first item is :"+gs.peek());
 	
 		while(gs.hasItems())
 		//pop which removes all the elements
 		System.out.println( gs.pop(E));
 		//after removing the elements 
-		System.out.println("first item is :"+gs.peek(E));
+		System.out.println("first item is :"+gs.peek());
 		System.out.println("Items in the size " +gs.size()+" items in the stack.\n");
-		
-
 	}
 
 }

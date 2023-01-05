@@ -3,6 +3,12 @@ import java.util.*;
 
 public class Generics<E> {
 	
+	
+	/*
+	 *  when the class is taking E then list also  does not know what kind of type 
+	 *  the Class is taking so it aslo like class accepts E item 
+	 */
+	
 	private LinkedList<E> list=new LinkedList<E> ();
 	
 	E item;
@@ -10,11 +16,13 @@ public class Generics<E> {
 	{
 		list.addFirst(item);
 	}
+	// delete all the items 
 	public E pop(E item)
 	{
 	   return list.poll();
 	}
-	public E peek(E item)
+	// bring the top most item 
+	public E peek()
 	{
 		  return list.peek();
 	}
