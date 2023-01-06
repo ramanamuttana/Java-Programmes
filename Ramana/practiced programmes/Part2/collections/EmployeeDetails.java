@@ -1,12 +1,12 @@
 package collections;
 
-public class Oranges 
+public class EmployeeDetails 
 {
 
 	private String name;
-	private Pineapple date;
+	private EmployeeDoB date;
 	//creating constructor and getting the values from Pineapple class
-	public Oranges(String membername,Pineapple birthday)
+	public EmployeeDetails(String membername,EmployeeDoB birthday)
 	{
 		name=membername;
 		date=birthday;

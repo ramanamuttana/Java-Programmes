@@ -3,12 +3,13 @@ package arrayacollections;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 public class Priorityqueue {
 
 	public static void main(String[] args) {
 
-				PriorityQueue<GregorianCalendar> pq = new PriorityQueue<GregorianCalendar>();
+				Queue<GregorianCalendar> pq = new PriorityQueue<>();
 				pq.add(new GregorianCalendar(1907,Calendar.DECEMBER,9));
 				pq.add(new GregorianCalendar(1906,Calendar.MARCH,16));
 				pq.add(new GregorianCalendar(1957,Calendar.FEBRUARY,19));

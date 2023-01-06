@@ -1,4 +1,6 @@
 Problem 1: from Part2 ,package arrayacollections.Hasmap
 Problem 2: from Part 1 ,package decisionlopps.Filenotfoundexception;
 Problem 3:from Part2 ,package arrayacollections.Linkedlist_Concatnation
-Problem 4:from Part2 , package arrayacollections..Listreturn;
+Problem 4:from Part2 , package arrayacollections.Listreturn;
+Problem 5:from Part2 ,package arrayacollections.Priorityqueu;
+Problem 5:bubble sort and binary search 
