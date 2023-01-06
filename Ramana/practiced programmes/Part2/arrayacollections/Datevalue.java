@@ -7,101 +7,106 @@ import java.util.List;
 import java.util.Map;
 
 public class Datevalue {
-	public static void main(String[] args) 
-	{   
-		//Getting the xml data 
+
+	static List<String> driverdata = new ArrayList<String>();
+	static Iterator<String> ithas;
+
+	public static void main(String[] args) {
+		// Getting the xml data
+
+		// Getting the Atributes and values
+
+		/*
+		 * List<String> driverdas=new ArrayList<String>(); driverdas.add("");
+		 * Iterator<String> itha=driverdas.iterator(); System.out.println(itha.next());
+		 */
+
+		// Getting the sensor Data set
+		List<String> driverdataone = new ArrayList<String>();
+		driverdataone.add("UT5");
+		driverdataone.add("com");
+		Iterator<String> ithassensordata = driverdataone.iterator();
+		System.out.println(ithassensordata.next());
+
+		// Also Separate the Temperature string with text and its Finalvalue
 		
-		//Getting the Atributes and values
-		
-		//Getting the Sensor Header
-		 List<String> driverdas=new ArrayList<String>();
-		 driverdas.add("");
-			Iterator<String> ITha=driverdas.iterator();
-			ITha.next();
-		
-		//Getting the sensor Data set
-		/*List<String> driverdata=new ArrayList<String>();
-		driverdata.add("UT5");
-		driverdata.add("com");
-		Iterator<String> IThas=driverdata.iterator();
-		System.out.println(IThas.next());*/
-			
-		//Also Separate the Temperature string with text and its Finalvalue
-		
-		//Mapping of Sensor headers with Sensor values
-		Map<String,String> Count= new HashMap<String,String>();
-			Count.put("14L",new String("49.11.2.1"));
-			Count.put("24",new  String( "49.11.2.2"));
-			Count.put("32R" ,new  String("49.11.2.3"));
-			Count.put("06",new String("49.11.2.4"));
-			Count.put("14R",new  String("49.11.2.5"));
-			Count.put("32L",new String("49.11.2.6"));
-			Count.put("14L.1",new  String("49.11.2.11"));
-			Count.put("32R.1",new  String("49.11.2.13"));
-			Count.put("24.1",new  String("49.11.2.14"));
-			
-				
-		//System.out.println("the required value  "+Count.get("32R"));
-		//Mapping Temperature with ID values
-		Map<String,Integer> Names= new HashMap<String,Integer>();
-			Names.put("UT5",new Integer(1));
-			Names.put("TL",new Integer(1));
-			Names.put("TB",new  Integer(2));
-			Names.put("GT" ,new  Integer(3));
-			Names.put("RF",new Integer(4));
-			//Names.put("UT5",new  Integer(8));
-			Names.put("TP",new Integer(12));
-			Names.put("UT210",new Integer(13));
-			Names.put("TR",new  Integer(44));
-			Names.put("RST",new  Integer(70));
-			Names.put("NT",new  Integer(79));
-			Names.put("SWHN",new Integer(120));
-			Names.put("SWHR",new  Integer(124));
-			
-		//compare the Temperature String with Attribute names
-		for(Map.Entry<String, Integer>  Temp:Names.entrySet())
-		{
-		   String TempKey =Temp.getKey();
-		   Integer TempValue=Temp.getValue();
-		   
-		   List<String> driverdata=new ArrayList<String>();
+		sensorData();
+
+	}
+
+	// Getting the Sensor Header
+	public void sensorHeaders() {
+		// Mapping of Sensor headers with Sensor values
+		Map<String, String> count = new HashMap<String, String>();
+		count.put("14L", new String("49.11.2.1"));
+		count.put("24", new String("49.11.2.2"));
+		count.put("32R", new String("49.11.2.3"));
+		count.put("06", new String("49.11.2.4"));
+		count.put("14R", new String("49.11.2.5"));
+		count.put("32L", new String("49.11.2.6"));
+		count.put("14L.1", new String("49.11.2.11"));
+		count.put("32R.1", new String("49.11.2.13"));
+		count.put("24.1", new String("49.11.2.14"));
+
+		// Compare the Attribute value with the Key Ex:UT5
+		// use for each to bring attribute value
+		for (Map.Entry<String, String> entries : count.entrySet()) {
+			String Keys = entries.getKey();
+			String numbers = entries.getValue();
+			System.out.println(Keys + "     " + numbers);
+
+			// compare the steps with Attribute
+			// if(IThas.next().equals(entries.getValue()))
+			{
+
+			}
+			System.out.println(Keys + "     " + numbers);
+			if (entries.getKey().equals("driver data set")) {
+
+			}
+			// If true then compare value from xml with driver value data
+			else {
+				System.out.println(Keys + "     " + numbers);
+
+			}
+		}
+	}
+
+	public static void sensorData() {
+		// System.out.println("the required value "+count.get("32R"));
+		// Mapping Temperature with ID values
+		Map<String, Integer> names = new HashMap<String, Integer>();
+		names.put("UT5", 1);
+		names.put("TL", 10);
+		names.put("TB", 2);
+		names.put("GT", 3);
+		names.put("RF", 4);
+		names.put("UT5", 8);
+		names.put("TP", 12);
+		names.put("UT210", 13);
+		names.put("TR", 44);
+		names.put("RST", 70);
+		names.put("NT", 79);
+		names.put("SWHN", 120);
+		names.put("SWHR", 124);
+
+		// compare the Temperature String with Attribute names
+		for (Map.Entry<String, Integer> temp : names.entrySet()) {
+			String tempKey = temp.getKey();
+			Integer tempValue = temp.getValue();
+
 			driverdata.add("UT5");
-			driverdata.add("com");
-			Iterator<String> IThas=driverdata.iterator();
-			System.out.println(IThas.next());
-			String sem=IThas.next();
-		if(sem.equals(Temp.getKey()))
-		{
-			System.out.println("Value equal");
-		}else
-		{
-			System.out.println(" not Value equal");
-		}
-		}
-						
-		//Compare the Attribute value with the Key Ex:UT5
-		//use for each to bring attribute value
-			for(Map.Entry<String, String>  entries:Count.entrySet())
-			{
-			String Keys =entries.getKey();
-			String numbers=entries.getValue();
-			System.out.println(Keys+"     "+numbers);
-				
-			//compare the steps with Attribute
-			//if(IThas.next().equals(entries.getValue()))
-			  {
-						
-			  }	
-				System.out.println(Keys+"     "+numbers);
-				if(entries.getKey().equals("driver data set"))
-				{
-					
-				}
-				//If true then compare value from xml with driver value data
-				else
-			{
-			System.out.println(Keys+"     "+numbers);
-	
-			}}
+			driverdata.add("GT");
+			ithas = driverdata.iterator();
+
+			System.out.println(tempKey + " : key value : " );
+
+			String sem = ithas.next();
+			if (sem.equals(tempKey)) {
+				System.out.println(" *******Values are  equal*******");
+			} else {
+				System.out.println(" Values are not equal");
 			}
-			}
+		}
+	}
+}

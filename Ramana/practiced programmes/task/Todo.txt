@@ -1,0 +1,4 @@
+Problem 1: from Part2 ,package arrayacollections.Hasmap
+Problem 2: from Part 1 ,package decisionlopps.Filenotfoundexception;
+Problem 3:from Part2 ,package arrayacollections.Linkedlist_Concatnation
+Problem 4:from Part2 , package arrayacollections..Listreturn;
