@@ -15,8 +15,8 @@ public class ShuffleandSort {
 		Collections.sort(numbers);
 		System.out.println(numbers);
 		// Taking sublist of the items i.e (Required Index)
-		List<Integer> winningCombination = numbers.subList(1, 4);
+		List<Integer> subListItems = numbers.subList(1, 4);
 		// Collections.sort(winningCombination);
-		System.out.println(winningCombination);
+		System.out.println(subListItems);
 	}
 }
