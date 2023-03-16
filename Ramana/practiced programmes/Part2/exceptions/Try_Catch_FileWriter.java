@@ -8,6 +8,7 @@ public class Try_Catch_FileWriter {
 
 	public static void main(String[] args) {
 		// creating and writing to the file using tray and catch
+		// file will be saved inn the Files folder 
 		try {
 			File file = new File("FilenameRam.txt");
 			if (!file.exists()) {
