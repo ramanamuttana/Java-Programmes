@@ -2,15 +2,15 @@ package constructors;
 
 public class ConstructorwithDefaultandParameters {
 
-	int x, y;
+	private int x, y;
 
 	// empty constructor 
-	public DefaultandParametersConst() {
+	public ConstructorwithDefaultandParameters() {
 
 	}
 
 	//constructor with arguements 
-	public DefaultandParametersConst(int x, int y) {
+	publicConstructorwithDefaultandParameters(int x, int y) {
 
 		this.x = x;
 		this.y = y;
@@ -38,13 +38,13 @@ public class ConstructorwithDefaultandParameters {
 	public static void main(String[] args) {
 		
 		// default constructor using setters to set the values 
-		DefaultandParametersConst def3=new DefaultandParametersConst();
+		ConstructorwithDefaultandParameters def3=new ConstructorwithDefaultandParameters();
 		def3.setX(10);
 		def3.setY(20);
 		System.out.println(def3.getX());
 		System.out.println(def3.getY());
 		// constructor with parameters are used directly to set the values 
-		DefaultandParametersConst def4= new DefaultandParametersConst(30,40);
+		ConstructorwithDefaultandParameters def4= new ConstructorwithDefaultandParameters(30,40);
 		System.out.println(def4.getX());
 		System.out.println(def4.getY());
 	}
