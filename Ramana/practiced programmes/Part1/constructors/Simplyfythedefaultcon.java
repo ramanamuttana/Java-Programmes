@@ -2,7 +2,7 @@ package constructors;
 
 public class Simplyfythedefaultcon {
 
-	int x, y;
+	private int x, y;
 
 	public Simplyfythedefaultcon(int x, int y) {
 		this.x = x;
