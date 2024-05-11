@@ -32,7 +32,9 @@ public class ConstructorwithDefaultandParameters {
 		this.y = y;
 	}
 	/*
-	 * when no setters , if the variables are private then only READ possible , no update on the values 
+         * The TWO possible ways to set the avlues to variables :One through setters methods and other one through Constructor with Arguements 
+	 * when no setters , if the variables are private then only READ possible Example public int getX(){return this.x;} , 
+         * and also if no constructor with arguements we can not set the values to variables ,no update on the values 
 	 */
 
 	public static void main(String[] args) {
