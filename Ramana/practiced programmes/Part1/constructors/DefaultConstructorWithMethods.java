@@ -1,6 +1,6 @@
-package constructors;
+package org.demo.chapter1;
 
-public class DefaultConstructorWithMethods {
+public class DefaultConstructorCallingMethods {
 	int x, y;
 
 	public int getX() {
@@ -20,8 +20,8 @@ public class DefaultConstructorWithMethods {
 	}
 
 	public static void main(String [] args){
-		// with the default constructor we can create the object
-		DefaultConstructorWithMethods def1=new DefaultConstructorWithMethods();
+		// with the default constructor we can create the object and call the methods through the object.
+		DefaultConstructorCallingMethods def1=new DefaultConstructorCallingMethods();
 		def1.setX(10);
 		def1.setY(20);
 		System.out.println(def1.getX());
