@@ -1,6 +1,6 @@
 package constructors;
 
-public class DefaultandParametersConst {
+public class ConstructorwithDefaultandParameters {
 
 	int x, y;
 
