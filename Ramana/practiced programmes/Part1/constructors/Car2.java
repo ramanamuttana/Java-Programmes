@@ -5,7 +5,7 @@ public class Car2 extends Car {
 	/*
 	 * since we are extending the car class , the variables and methods in the car2 can now  accessed through Object of car
 	 * now to call a method we can call through Object , but if it having STATIC then we can call it  through CLASSNAME 
-	 * but , here this is within the class and also STATIC  , so we can call directly  variable p 
+	 * but , here the variable  is within the class and also STATIC  , so we can call directly  variable p 
 	 * 
 	 */
 	
