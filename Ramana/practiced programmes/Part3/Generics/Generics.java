@@ -32,4 +32,11 @@ public class Generics<E> {
 	{
 		return !list.isEmpty();
 	}
+
+	/* public static void main(String args[]) {
+	  /  Generics<Integer> ge=new Generics<>();
+	  /  ge.push(2);
+
+          /System.out.println("Peek element is = " + ge.peek());
+         }*/
 }
