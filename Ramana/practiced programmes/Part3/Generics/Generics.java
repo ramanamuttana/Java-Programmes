@@ -32,6 +32,4 @@ public class Generics<E> {
 	{
 		return !list.isEmpty();
 	}
-	
-
 }
