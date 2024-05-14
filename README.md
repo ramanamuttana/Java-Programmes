@@ -1,2 +1,2 @@
 # Java-Programmes
-Java SE basic programmes , programmes from Dummies book 
+Java  programmes , programmes from Dummies book 
