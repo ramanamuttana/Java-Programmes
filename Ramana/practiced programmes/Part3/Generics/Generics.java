@@ -2,8 +2,6 @@ package Generics;
 import java.util.*;
 
 public class Generics<E> {
-	
-	
 	/*
 	 *  when the class is taking E then list also  does not know what kind of type 
 	 *  the Class is taking so it aslo like class accepts E item 
