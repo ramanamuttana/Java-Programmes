@@ -1,7 +1,4 @@
-# Java-Programmes
-Java  programmes 
+# Java-Programmes from  Books
+1.Programmes from Dummies book 
 
-# Books
-programmes from Dummies book 
-
-Java coding Problems 
+2.Java coding Problems 
