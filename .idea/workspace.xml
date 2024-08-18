@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b136cfce-c7a8-47eb-84fb-b720e54def0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ramana/Java-Programmes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/Chapter1/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/ConstructorwithDefaultandParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/ConstructorwithDefaultandParameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/DefaultConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/DefaultConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/DefaultConstructorCallingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/DefaultConstructorCallingMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/ExtensionExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/ExtensionExample/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/ExtensionExample/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/ExtensionExample/Car2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/NoSetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/NoSetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/Simplyfythedefaultcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/constructors/Simplyfythedefaultcon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/Filenotfoundexception.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/decisionlopps/Filenotfoundexception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/decisionlopps/Forloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/Scannerclose.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/decisionlopps/Scannerclose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/SwitchWithBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/decisionlopps/SwitchWithBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/SwitchWithoutBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/decisionlopps/SwitchWithoutBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/org/inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/inheritance/Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/org/inheritance/InheritanceSuperclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/inheritance/InheritanceSuperclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/org/override/Overridingprogramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/override/Overridingprogramm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/Part1/staticandnonstatic/CallNonStaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Chapter1/staticandnonstatic/CallNonStaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafordummies/Chapters/PracticeExamples/org/timerelated/GenerateTimePeriodForZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/extra/timerelated/GenerateTimePeriodForZone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +36,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javafordummies/Chapters/extra" />
       <recent name="$PROJECT_DIR$/javafordummies/Chapters/src" />
       <recent name="$PROJECT_DIR$/javafordummies/Chapters" />
       <recent name="$PROJECT_DIR$/javafordummies/Chapters/Part1/Chapter1" />
       <recent name="$PROJECT_DIR$/javafordummies" />
-      <recent name="$PROJECT_DIR$/Ramana" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
