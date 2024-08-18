@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b136cfce-c7a8-47eb-84fb-b720e54def0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/226/InitializeOptional/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/226/InitializeOptional/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/226/InitializeOptional/InitializeOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/226/InitializeOptional/InitializeOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/226/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/226/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/227/OptionalGET/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/227/OptionalGET/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/227/OptionalGET/GetOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/227/OptionalGET/GetOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/228/GetOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodingProblems/Chapter12/228/GetOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/.github/workflows/maven-publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.github/workflows/maven-publish.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/.project" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/Java-Programmes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Java-Programmes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/.project" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/FilenameRam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/FilenameRam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Files/FilenameRam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Files/FilenameRam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Files/Hankees.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Files/Hankees.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Files/org.Decisionloops.FileNotFoundException.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Files/org.Decisionloops.FileNotFoundException.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/Chapter1/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/Chapter1/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/ConstructorwithDefaultandParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/ConstructorwithDefaultandParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/DefaultConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/DefaultConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/DefaultConstructorCallingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/DefaultConstructorCallingMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/ExtensionExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/ExtensionExample/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/ExtensionExample/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/ExtensionExample/Car2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/NoSetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/NoSetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/constructors/Simplyfythedefaultcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/constructors/Simplyfythedefaultcon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/decisionlopps/Filenotfoundexception.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/Filenotfoundexception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/decisionlopps/Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/Forloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/decisionlopps/Scannerclose.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/Scannerclose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/decisionlopps/SwitchWithBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/SwitchWithBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/decisionlopps/SwitchWithoutBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/decisionlopps/SwitchWithoutBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/org/inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/org/inheritance/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/org/inheritance/InheritanceSuperclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/org/inheritance/InheritanceSuperclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/org/override/Overridingprogramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/org/override/Overridingprogramm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part1/staticandnonstatic/CallNonStaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part1/staticandnonstatic/CallNonStaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/ArrayScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/ArrayScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/ArraySizeByScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/ArraySizeByScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Array_Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Array_Comparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Datevalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Datevalue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Linkedlist_1_Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Linkedlist_1_Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Linkedlist_Concatnation.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Linkedlist_Concatnation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Linkedlistsortingandsublist.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Linkedlistsortingandsublist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Listreturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Listreturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Priorityqueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Priorityqueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Random_Number_Using_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Random_Number_Using_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Searching_Array_Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Searching_Array_Values.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/ShuffleandSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/ShuffleandSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Sort_Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Sort_Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Sort_Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Sort_Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Sort_bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Sort_bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Sorting_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Sorting_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Spell.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Spell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Treemap_Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Treemap_Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/arrayacollections/Treemap_Keys_Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/arrayacollections/Treemap_Keys_Values.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/collections/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/collections/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/collections/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/collections/EmployeeDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/collections/EmployeeDoB.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/collections/EmployeeDoB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/ExtractingSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/ExtractingSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/Extracting_Characetrs_From_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/Extracting_Characetrs_From_a_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/Replace_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/Replace_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/Splitting_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/Splitting_a_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/String_Builder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/String_Builder2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/String_Buolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/String_Buolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/com/string/work/Stringlenth_trim.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/com/string/work/Stringlenth_trim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/compositions/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/compositions/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/compositions/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/compositions/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/compositions/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/compositions/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/compositions/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/compositions/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/compositions/ClassD.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/compositions/ClassD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/compositions/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/compositions/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/exceptions/Try_Catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/exceptions/Try_Catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/exceptions/Try_Catch_FileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/exceptions/Try_Catch_FileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/exceptions/Try_Catch_With_Scanner_While.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/exceptions/Try_Catch_With_Scanner_While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/exceptions/Try_Catch_with_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/exceptions/Try_Catch_with_Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/loops/Using_whileloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/loops/Using_whileloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/org/critical/problems/Dateformat.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/org/critical/problems/Dateformat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/org/critical/problems/Objectcreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/org/critical/problems/Objectcreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/org/critical/problems/Simpleprogramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/org/critical/problems/Simpleprogramm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Abstractway.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Abstractway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Arithmatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Arithmatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/CloneObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/CloneObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/CratingInstancesCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/CratingInstancesCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Datetime.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Datetime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/DeepCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Deep_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Deep_Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/EqualsStirngs.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/EqualsStirngs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/EqualsandIgnoreequlascase.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/EqualsandIgnoreequlascase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Get_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Get_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/InnerandOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/InnerandOuter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/IntTo_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/IntTo_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Metodstart.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Metodstart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/PreventingInstancesUsing_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/PreventingInstancesUsing_Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/StaticInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/StaticInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Tostring.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Tostring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part2/practicedone/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part2/practicedone/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part3/Generics/GenStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part3/Generics/GenStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/Part3/Generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/Part3/Generics/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/PracticeExamples/org/timerelated/GenerateTimePeriodForZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/PracticeExamples/org/timerelated/GenerateTimePeriodForZone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/examplefive/EnglishSpeakingWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/examplefive/EnglishSpeakingWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/examplefour/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/examplefour/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampleone/DecimalFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampleone/DecimalFormatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampleone/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampleone/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampleone/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampleone/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampleone/StudentExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampleone/StudentExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampletwo/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampletwo/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampletwo/ShowTeamFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampletwo/ShowTeamFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/dummies/tenthchapter/exampletwo/TeamFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter10/exampletwo/TeamFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem78.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem79.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem80.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem81.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem82.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem83.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem84.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem85.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem86.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/javacodingproblems/org/chapter4/Problem87.java" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/chapter4/Problem87.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ramana/practiced programmes/task/Todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javafordummies/Chapters/task/Todo.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kpFOdjkyRwjQGkWk6jwpIGUBif" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/venkataramanareddy/Documents/GitHub/Java-Programmes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javafordummies/Chapters" />
+      <recent name="$PROJECT_DIR$/javafordummies" />
+      <recent name="$PROJECT_DIR$/Ramana" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b136cfce-c7a8-47eb-84fb-b720e54def0d" name="Changes" comment="" />
+      <created>1723972583095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723972583095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>

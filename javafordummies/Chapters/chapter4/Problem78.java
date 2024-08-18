@@ -3,11 +3,9 @@ package org.chapter4;
 import java.awt.datatransfer.StringSelection;
 import java.awt.datatransfer.UnsupportedFlavorException;
 import java.io.IOException;
-
 public class Problem78 {
 
-    //Local variable Type Inference (LVTI) 
-	
+    //Local variable Type Inference (LVTI)
 	public static void main(String[] args) throws UnsupportedFlavorException, IOException {
 		Problem78  problem78=new Problem78();
 		Object obj1=problem78.fetchTransferableData("ram");

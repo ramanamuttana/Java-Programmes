@@ -1,9 +1,7 @@
 package org.example;
 
 import java.util.Optional;
-
 public class Initializeoptional {
-    
     public static void main(String[] args) {
         
         // Example 226
