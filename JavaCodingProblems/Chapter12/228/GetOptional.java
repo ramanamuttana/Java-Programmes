@@ -11,7 +11,10 @@ public class GetOptional {
     }
     public String findStatus(){
             // Example 228
-            Optional<String> status = ...; // this is prone to be empty
+          //  Optional<String> status = ...; // this is prone to be empty // avoid
+
+           Optional<String> status =Optional.empty();
+
 
             /* Avoid 
             *  if (status.isPresent()) {
@@ -20,7 +23,7 @@ public class GetOptional {
             *} else {
             *   return BOOK_STATUS;
             *  }
-            */preferred
+            *///preferred
            return status.orElse(BOOK_STATUS);
             // orElse is evaluted even though the value is not empty ,
             // and this should be used only when the arguementus are already contained.
