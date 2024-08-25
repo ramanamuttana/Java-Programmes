@@ -13,14 +13,14 @@ public class GetOptional {
             // Example 228
             Optional<String> status = ...; // this is prone to be empty
 
-            // Avoid 
-            //  if (status.isPresent()) {
-            //    return status.get();
-                // do something with "theBook"
-            //} else {
-            //   return BOOK_STATUS;
-            //  }
-            //preferred
+            /* Avoid 
+            *  if (status.isPresent()) {
+            *    return status.get();
+            *  // do something with "theBook"
+            *} else {
+            *   return BOOK_STATUS;
+            *  }
+            */preferred
            return status.orElse(BOOK_STATUS);
             // orElse is evaluted even though the value is not empty ,
             // and this should be used only when the arguementus are already contained.
