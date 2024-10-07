@@ -11,7 +11,7 @@ public class GetOptional {
     }
     public String findStatus(){
             // Example 228
-            // 1. Optional<String> status = ...; // this is prone to be empty // avoid 1. ...BOOK_STATUS will execute 
+            // 1. Optional<String> status = ...; // this is prone to be empty // avoid 1. ...BOOK_STATUS will execute
 
            Optional<String> status =Optional.empty(); // 2 status.get () will execute
 
