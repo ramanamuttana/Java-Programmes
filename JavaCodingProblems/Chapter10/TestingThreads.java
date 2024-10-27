@@ -1,6 +1,8 @@
 package org.example;
 
 public class TestingThreads {
+
+    // NEW state 
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
