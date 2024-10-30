@@ -1,1 +1,5 @@
+package org.factoryPattern;
 
+public interface Notification {
+     void notifyUser();
+}
