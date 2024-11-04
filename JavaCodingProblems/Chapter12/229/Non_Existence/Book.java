@@ -1,4 +1,4 @@
-package org.optional;
+package org.example;
 
 public class Book {
 
