@@ -3,7 +3,7 @@ package org.interview;
 public class BinarySerach {
 
     public static void main(String[] args ){
-        int[] values={1,2,3,4,5,6,7,8,9,10,11};
+        int[] values={1,2,3,4,5,6,7,8,9,10};
 
         int a=binarySerach(values,9);
         System.out.println(a+" a value ");
