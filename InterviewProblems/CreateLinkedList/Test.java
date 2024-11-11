@@ -2,8 +2,8 @@ package org.leetcodeproblems;
 
 public class Test {
 
-
         public static void main(String[] args) {
+                
             LinkedListDemo list = new LinkedListDemo();
 
             // Adding values to the linked list
