@@ -12,6 +12,7 @@ public class BinarySerach {
         int firstIndex=0;
         int lastIndex=values.length-1;
        while(firstIndex<=lastIndex){
+           // find mid value 
            int middleIndex = (firstIndex + lastIndex) / 2;
            int middleValue = values[middleIndex];
            if (middleValue == valueToFind) {
