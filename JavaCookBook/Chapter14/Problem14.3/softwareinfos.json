@@ -1,0 +1,11 @@
+{
+  "name": "robinparse",
+  "version": "1.2.3",
+  "description": "A software for parsing data",
+  "className": "com.example.RobinParseClass",
+  "contributors": [
+    "Robin Smythe",
+    "Jon Jenz",
+    "Jan Ardann"
+  ]
+}
