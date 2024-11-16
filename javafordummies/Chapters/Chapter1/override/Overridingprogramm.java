@@ -1,20 +1,19 @@
 package org.override;
-class overload
-{
+class Car{
 	int q;
 	char de;
 	String def;
-	overload()
+	Car()
 	{
 		this.q=0;
 		System.out.println(+q);
 	}
-	overload(int x)
+	Car(int x)
 	{
 		this.q=x;
 		System.out.println(+q);
 	}
-	overload(char de)
+	Car(char de)
 	{
 		this.de=de;
 		System.out.println(de);
@@ -22,8 +21,7 @@ class overload
 	/*
 	 * in for loop if there is no brackets , then next line will be taken as inside loop 
 	 */
-	overload(int a, String s)
-	{
+	Car(int a, String s){
 		this.q=a;
 		this.def=s;
 		for(int i=1;i<=3;i++)
