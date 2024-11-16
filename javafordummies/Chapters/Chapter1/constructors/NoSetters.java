@@ -17,6 +17,8 @@ public static void main(String[] args) {
  */
 
 class Databses {
+
+	// there are no setter methods , assign the values only through constructors
 	private int x, y;
 
 	public Databses() {
