@@ -1,4 +1,4 @@
-package constructors;
+package org.dummiesbook.chapterone;
 
 public class ConstructorwithDefaultandParameters {
 
