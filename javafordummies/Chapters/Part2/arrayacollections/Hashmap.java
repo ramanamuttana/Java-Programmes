@@ -23,6 +23,14 @@ public class Hashmap {
 		countValues.put(1001, 1);
 		countValues.put(1003, 5);
 		countValues.put(1004, 2);
+            // simplified version 
+	     /*  Map<Integer, Integer> countValues = Map.of(
+              *1000, 4,
+              *1002, 3,
+              *1001, 1,
+              *1003, 5,
+             *1004, 2);
+		*/
 		// System.out.println(Count);
 		// using enhanced for loop and getting the keys and values
 		for (Map.Entry<Integer, Integer> entry : countValues.entrySet()) {
