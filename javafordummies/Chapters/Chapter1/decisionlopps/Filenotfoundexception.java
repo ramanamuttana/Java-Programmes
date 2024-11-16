@@ -5,8 +5,11 @@ import java.io.FileNotFoundException;
 
 public class Filenotfoundexception {
 
+	// File path to be checked
+        String filePath = "/practiced_programmes/Files/org.Decisionloops.FileNotFoundException.txt";
+
 	public static void main(String[] args) throws FileNotFoundException {
-		openfile("/practiced programmes/Files/org.Decisionloops.FileNotFoundException.txt");
+		openfile(filePath");
 	}
 	public static void openfile(String name) 
 	{ 
