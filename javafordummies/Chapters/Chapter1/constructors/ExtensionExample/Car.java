@@ -20,6 +20,9 @@ public class Car {
 
      public Car(int h, int x) {
 
+	 this.h=h;
+	 this.p=x;
+
      }
 	
       public void getWorld() {
