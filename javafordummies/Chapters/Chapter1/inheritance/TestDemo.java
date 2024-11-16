@@ -1,6 +1,5 @@
 package org.inheritance;
- class abc
- {
+ class abc {
 	int a;
 	void disp()
 	{
@@ -8,8 +7,7 @@ package org.inheritance;
 		System.out.println(+a);
 	}
 }
- class def extends abc
- {
+ class def extends abc{
 	int s;
 	void disp2()
 	{
@@ -19,7 +17,7 @@ package org.inheritance;
 	}
 	
 }
-public class Inheritance {
+public class TestDemo {
 
 	public static void main(String[] args) {
 		def ob=new def();
