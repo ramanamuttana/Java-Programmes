@@ -31,6 +31,12 @@ public class Linkedlist_Concatnation {
 				
 			}
 			System.out.println(a+"   "+b);
-			
+			// concatnation 
+			while (bIter.hasNext()) {
+                         aiter.add(bIter.next());
+			}
+			}
+			System.out.println(a+"   ");
+                             }		
 		}
 	}
