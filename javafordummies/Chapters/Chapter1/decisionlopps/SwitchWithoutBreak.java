@@ -16,13 +16,10 @@ public class SwitchWithoutBreak {
 
 		case 1:
 			System.out.println("it is matched to one ");
-			System.out.println("it is matched to one ");
 		case 2:
 			System.out.println("it is matched to two ");
-
 		case 3:
 			System.out.println("it is matched to three ");
-			System.out.println("it is matched to one ");
 
 		default:
 			System.out.println("it matched to default");
