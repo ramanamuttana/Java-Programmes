@@ -1,4 +1,4 @@
-package org.override;
+package org.overload;
 class Car{
 	int q;
 	char de;
@@ -29,13 +29,13 @@ class Car{
 	}
 	
 }
-public class Overridingprogramm {
+public class Overloadprogramm {
 
 	public static void main(String[] args) {
-		overload ob=new overload();
-		overload ob2=new overload(100);
-		overload ob3=new overload('H');
-		overload ob4=new overload(10, "hello");
+		Car ob=new Car();
+		Car ob2=new Car(100);
+		Car ob3=new Car('H');
+		Car ob4=new Car(10, "hello");
 		
 	}
 
