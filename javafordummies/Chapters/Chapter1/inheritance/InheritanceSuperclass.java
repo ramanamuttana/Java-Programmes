@@ -21,6 +21,7 @@ class subclass extends superclass
 	}
 public void disp()
 	{
+		// initialize of superclass and call the method 
 	   super.disp();
 		System.out.println(+a);
 	}	
