@@ -4,7 +4,7 @@ package org.inheritance;
 	void disp()
 	{
 		a=100;
-		System.out.println(+a);
+		System.out.println(+a); // Prints: 100
 	}
 }
  class def extends abc{
