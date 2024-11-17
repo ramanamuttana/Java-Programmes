@@ -3,19 +3,19 @@ package practicedone;
 public class CratingInstancesCount {
 
 	public static void main(String[] args) {
-     printCount();
-     for(int i=0;i<=10;i++)
-     {
-    	 demosession obj=new demosession();
-    	 printCount();
-     }
+                  printCount();
+                for(int i=0;i<=10;i++){
+    	            Demosession obj=new Demosession();
+    	            printCount();
+               }
 	}
+	
 	public static void   printCount()
 	{
-		System.out.println("The total number of stack Rotate:"+demosession.getInstanceCount());
+		System.out.println("The total number of stack Rotate:"+Demosession.getInstanceCount());
 	}
 }
-	class demosession
+	class Demosession
 	{
 		private static int x=0;
 		
