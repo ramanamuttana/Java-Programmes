@@ -11,8 +11,7 @@ public class CloneObjects {
 		System.out.println(cus2);
 	}
 }
-class Customer
-{
+class Customer{
 	private  String Firstname;
 	private  String lastname;
 	
@@ -47,4 +46,9 @@ class Customer
 		return this.Firstname+"  "+this.lastname;
 	}
 }
+
+// output 
+//samssss  sam
+//ram  sam
+
 
