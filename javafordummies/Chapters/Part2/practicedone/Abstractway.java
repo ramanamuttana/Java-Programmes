@@ -1,21 +1,17 @@
 package practicedone;
 
- abstract class Somewaysone
-{
+ abstract class Somewaysone{
 	int Id;
 	String name;
 	double salary;
-public void employee(int a,String abs,double pq)
-	{
+       public void employee(int a,String abs,double pq){
 		this.Id=a;
 		this.name=abs;
 		this.salary=pq;
-		System.out.println(Id+" "+name+" "+salary);
-		
+		System.out.println(Id+" "+name+" "+salary);	
 	}
 }
-class Someways extends  Somewaysone
-{
+class Someways extends  Somewaysone{
 	int Id;
 	String name;
 	double salary;
@@ -31,11 +27,9 @@ class Someways extends  Somewaysone
 	}
 }
 
- public class Abstractway 
-{
-	public static void main(String[]args)
-	{	
-		//Somewaysone obj2= new Somewaysone();
+ public class Abstractway {
+	public static void main(String[]args){	
+		//Somewaysone obj2= new Somewaysone(); // can not create an Object for an abstract class 
 		Someways obj=new Someways();
 		obj.employee(200, "ganesha", 12.0);
 		obj.employee(100, "ramana", 4.0);
