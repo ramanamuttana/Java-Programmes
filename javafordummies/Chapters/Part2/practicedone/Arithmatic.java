@@ -5,9 +5,6 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 public class Arithmatic {
-    
-     
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double mealCost = scan.nextDouble(); // original meal price
