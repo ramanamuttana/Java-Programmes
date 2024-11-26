@@ -16,3 +16,5 @@ public class FindPackageForFile {
     }
 
 }
+// output:Package name of File class: java.io
+
