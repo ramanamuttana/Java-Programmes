@@ -16,4 +16,4 @@ public class FactoryMethodDemo {
         }
         throw new IllegalArgumentException("Unknown notification type");
     }
-    }
+}
