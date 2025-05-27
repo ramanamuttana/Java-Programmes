@@ -7,6 +7,7 @@ public class FindPackageForFile {
     public static void main(String[] args ) throws ClassNotFoundException {
 
         File file=new File(".");
+        //  file.getClass().getPackage().getName();
         Package packageOfFile = file.getClass().getPackage();
 
         // Retrieve the package name
