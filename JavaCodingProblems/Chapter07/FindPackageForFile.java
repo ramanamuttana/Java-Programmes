@@ -14,5 +14,4 @@ public class FindPackageForFile {
 
         System.out.println("Package name of Integer class: " + packageNameOfClazz);
     }
-
 }
