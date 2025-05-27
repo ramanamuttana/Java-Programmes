@@ -4,7 +4,7 @@ import java.lang.Package;
 
 public class FindPackages {
 
-    // name of the package
+    //  get the name of the package
 
     public static void main(String[] args ) throws ClassNotFoundException {
         // Load the class for Integer

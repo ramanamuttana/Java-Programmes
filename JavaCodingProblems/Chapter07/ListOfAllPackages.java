@@ -8,7 +8,8 @@ public class ListOfAllPackages {
     public static  void main(String[]  args ){
         List<String> packagesSamePrefix
                 = getPackagesList("java.util" );
-        packagesSamePrefix.forEach(packagesNames->System.out.println(packagesNames));
+      //  packagesSamePrefix.forEach(packagesNames->System.out.println(packagesNames));
+        packagesSamePrefix.forEach(System.out::println);
     }
 
     public static List<String> getPackagesList(String prefix ){
