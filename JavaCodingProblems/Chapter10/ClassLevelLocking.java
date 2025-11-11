@@ -35,5 +35,4 @@ class TestingAbove2 extends Thread{
         ClassLevelLocking.m1();
         ClassLevelLocking.m2();
     }
-
 }

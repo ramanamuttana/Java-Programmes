@@ -1,5 +1,4 @@
-package org.example;
-
+package org.example.org.example;
 import java.io.File;
 
 public class ThisFindPackageForFile {
