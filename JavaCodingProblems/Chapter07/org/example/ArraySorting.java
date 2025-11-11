@@ -1,4 +1,4 @@
-package org.example.org.example;
+package org.example;
 
 // 99 question
 
